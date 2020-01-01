@@ -1,0 +1,7 @@
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\bin\Release\Sales And Inventory Management.SRV.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\bin\Release\Sales And Inventory Management.SRV.pdb
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\bin\Release\Sales And Inventory Management.DAO.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\bin\Release\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\obj\Release\Sales And Inventory Management.SRV.csprojResolveAssemblyReference.cache
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\obj\Release\Sales And Inventory Management.SRV.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.SRV\obj\Release\Sales And Inventory Management.SRV.pdb

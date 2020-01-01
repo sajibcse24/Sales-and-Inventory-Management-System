@@ -1,0 +1,36 @@
+c:\users\tajnin\documents\visual studio 2010\Projects\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+c:\users\tajnin\documents\visual studio 2010\Projects\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+c:\users\tajnin\documents\visual studio 2010\Projects\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+c:\users\tajnin\documents\visual studio 2010\Projects\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.csprojResolveAssemblyReference.cache
+G:\project\Final project\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\LATEST PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\LATEST PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\LATEST PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.csprojResolveAssemblyReference.cache
+G:\project\Final project\LATEST PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\LATEST PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+F:\inventory\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+F:\inventory\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+F:\inventory\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\ResolveAssemblyReference.cache
+F:\inventory\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+F:\inventory\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+C:\Users\Tajnin\Desktop\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+C:\Users\Tajnin\Desktop\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+C:\Users\Tajnin\Desktop\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+C:\Users\Tajnin\Desktop\PROJECT WITH CR (29)\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Shajib\cou inventory\LATEST\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Shajib\cou inventory\LATEST\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+G:\project\Shajib\cou inventory\LATEST\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+G:\project\Shajib\cou inventory\LATEST\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb
+F:\Shajib c#  8th sem\inventory latest\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.dll
+F:\Shajib c#  8th sem\inventory latest\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Debug\Sales And Inventory Management.DAO.pdb
+F:\Shajib c#  8th sem\inventory latest\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.csprojResolveAssemblyReference.cache
+F:\Shajib c#  8th sem\inventory latest\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.dll
+F:\Shajib c#  8th sem\inventory latest\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Debug\Sales And Inventory Management.DAO.pdb

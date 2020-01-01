@@ -1,0 +1,4 @@
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Release\Sales And Inventory Management.DAO.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\bin\Release\Sales And Inventory Management.DAO.pdb
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Release\Sales And Inventory Management.DAO.dll
+G:\project\Final project\PROJECT WITH CR\Sales And Inventory Management Project1 (2)\Sales And Inventory Management Project1\Sales And Inventory Management.DAO\obj\Release\Sales And Inventory Management.DAO.pdb
